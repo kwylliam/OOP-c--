@@ -1,0 +1,6 @@
+costomer and webuser can both make payments therefore-->realization
+if customer or webuser are deleted, the linked account is also delted therefore composition relationship
+shopping cart is dependent on account and order is dependent on shopping cart
+if there are no products then there is no order therefore the two classes have a composition relationship
+A change in  the product like price will affect the order therefore there is a depenceny between the two
+There is a composition relationship between the account and the shopping cart
